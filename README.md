@@ -6,7 +6,7 @@ Tested working on:
  - Youtube (long form and shorts)
  - Youtube Music (songs and full playlists)
  - Facebook (long form and shorts)
- - Instagram (long form, stories, and reels)
+ - Instagram (long form, and reels)
 
 Does NOT work on ANY DRM content such as Netflix or Spotify. This is not possible and will not be added.
 
